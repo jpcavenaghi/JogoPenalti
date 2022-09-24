@@ -25,6 +25,7 @@ public class Penalti {
                 break;
             default:
                 System.out.println("ISOLOUU!!!");
+                System.exit(0);
                 break;
         }
         System.out.println("");
